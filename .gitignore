@@ -1,0 +1,6 @@
+/env
+/proyectos
+*json
+/__pycache__
+/.qt_for_python
+/hilos/__pycache__
